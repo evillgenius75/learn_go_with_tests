@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "arrays"
+		},
+		{
+			"path": "structs"
 		}
 	],
 	"settings": {}
