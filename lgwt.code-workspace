@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "hello"
+		},
+		{
+			"path": "arrays"
 		}
 	],
 	"settings": {}
