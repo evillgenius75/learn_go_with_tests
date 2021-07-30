@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "ptrs"
+		},
+		{
+			"path": "maps"
 		}
 	],
 	"settings": {}
