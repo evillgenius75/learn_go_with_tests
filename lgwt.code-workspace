@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "maps"
+		},
+		{
+			"path": "depinj"
 		}
 	],
 	"settings": {}
