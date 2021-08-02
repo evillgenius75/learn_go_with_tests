@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "depinj"
+		},
+		{
+			"path": "mock"
 		}
 	],
 	"settings": {}
